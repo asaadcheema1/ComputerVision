@@ -31,32 +31,7 @@ This repository is a playground for exploring and integrating various **computer
 - **🤩 Diverse Models**: From classical OCR tools to modern transformer-based architectures.  
 - **📑 YOLO Integration**: Easy-to-use scripts for generating YOLO-compatible labels.  
 - **🎨 Zero-Shot Learning**: Exploring the versatility of Grounding DINO for text- and object-related tasks.  
-- **🤹 Hands-On Fun**: Engaging use cases blending creativity with technical prowess.  
-
----
-
-## 🛠️ Requirements
-
-- 🐍 Python 3.8 or later  
-- 📦 Required libraries specified in each script/notebook  
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-2. Install dependencies for each script or notebook as needed.  
-3. Run the scripts or notebooks and dive into the world of **computer vision magic**! ✨  
-
----
-
-## 💡 Contribution
-
-Have ideas to make this repository even cooler? Open an issue or send a pull request! Let’s make something awesome together. 🤝✨
+- **🤹 Hands-On Fun**: Engaging use cases blending creativity with technical prowess. 
 
 ---
 
