@@ -22,7 +22,10 @@ This repository is a playground for exploring and integrating various **computer
    ✍️ Demonstrates OCR capabilities using the PaddleOCR library, including text detection and recognition.  
 
 6. **📚 ViT (Vision Transformers).ipynb**  
-   🤓 Experimentation with Vision Transformers for image classification and understanding.  
+   🤓 Experimentation with Vision Transformers for image classification and understanding.
+     
+8. **🏗️ Construction_Site.ipynb**  
+   👷 Uses **YOLOv11** for real-time object detection and safety monitoring in construction sites.  
 
 ---
 
